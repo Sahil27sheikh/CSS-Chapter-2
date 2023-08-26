@@ -28,7 +28,7 @@ I have added some of my CSS backgound knowledge some selectors in this repositor
       background-attachment: scroll, local;
       and so on...
 &#10148; Background shorthand property:
-      Example
+      Example:
       background: red url(vijay.jpg) no-repeat fixed top center;
 &#10148; And is in the Practice sets, we have creat navigation Bars, containers with background propertys and so on...
 </pre>
