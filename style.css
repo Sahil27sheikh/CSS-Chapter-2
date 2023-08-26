@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.red{
+    background: red;
+    height: 200px; 
+    color: white;
+}
+
+.green{
+    background: green;
+    color: white;
+}
+
+/* there are also so meny type to add colors in css. some of this are */
+
+/* 1) HEX code it is use to specify color use to hex code like #8c7d22 it is get form google */
+
+.yellow{
+    background-color: #8c7d22;  /* it is get form google*/
+    color:#305c7e
+}
+
+/* 2) rgb color code */
+
+.pink{
+    background-color: rgb(25,255,255); /* it is also get form google */
+}
+
+/* 3) HSL color code  */
+
+.black{
+    background:hsl(159, 40%, 65%, 0.5); /* it is also get form google */
+}
